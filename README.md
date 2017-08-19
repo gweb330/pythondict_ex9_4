@@ -1,2 +1,1 @@
-"# pythondict_ex9_4" 
-"# pythondict_ex9_4" 
+This is a very simple example of the dictionary functionality in Python 3. 
